@@ -63,3 +63,6 @@ from FebSales
 Where location LIKE '%Los Angeles%'
 GROUP BY product;
 
+#9 Which locations in New York received at least 3 orders in January, and how many orders did they each receive?
+
+
